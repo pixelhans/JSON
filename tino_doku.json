@@ -1,50 +1,42 @@
 {
-  "author": "DEIN NAME",
-  "github": "DEIN GITHUB USER NAME",
-  "url": "http://deine.online.praesenz.de",
+  "author": "Tino Kanigs",
+  "github": "pixelhans",
+  "url": "http://pxlhns.tumblr.com",
   "repos": [
-    "DEIN GITHUB REPO NAME ZU PROJEKT 1",
-    "DEIN GITHUB REPO NAME ZU PROJEKT 2",
-    "DEIN GITHUB REPO NAME ZU PROJEKT 3",
-    "DEIN GITHUB REPO NAME ZU WEITEREM",
-    "UND SO WEITER"
+    "algorithm",
+    "ESCAPE",
+    "arduino",
+    "JSON",
+    "pixelhans.github.io"
   ],
   "algorithm": {
-    "title": "YOUR TITLE FOR THE ALGORITHM",
-    "url": "http://gist.github.com/1234567",
+    "title": "lines.. or circles?",
+    "url": "https://github.com/pixelhans/algorithm",
     "images": [
-      "ldr-1.png",
-      "ldr-2.png",
-      "ldr-3.png"
+      "ldr-1.png"
     ],
     "thumb": [
-      "ldr-1-thumb.png",
-      "ldr-2-thumb.png",
-      "ldr-3-thumb.png"
+      "ldr-1-thumb.png"
     ],
-    "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+    "abstract": "Translating a simple analog algorithm into code isn't easy at all. I had to make some sacrifice my initial idea and created an all new algortihm digitally."
   },
   "crowd": {
-    "survey_url": "http://example.com",
-    "result_url": "http://example.com",
-    "title": "YOUR TITLE FOR CROWDSOURING",
+    "survey_url": "http://pixelhans.github.io",
+    "result_url": "http://pixelhans.github.io/results",
+    "title": "play a game.. make a game",
     "image": "ldr.png",
     "thumb": "ldr-thumb.png",
-    "abstract": " My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My  affection passionately clings to your amorous fellow feeling. My  longing fervently longs for your  passion. You are my loving rapture.\nYours tenderly,\nM.U.C."
+    "abstract": "People play a little flash game and fill in a form afterwards. With their data a growing dungeon is generated."
   },
   "bits": {
     "video_url": "http://vimeo.com/1234567",
-    "title": "YOUR TITLE FOR PHYSICAL BITS",
+    "title": ""north",
     "images": [
-      "ldr-1.png",
-      "ldr-2.png",
-      "ldr-3.png"
+      "ldr-1.png"
     ],
     "thumb": [
-      "ldr-1-thumb.png",
-      "ldr-2-thumb.png",
-      "ldr-3-thumb.png"
+      "ldr-1-thumb.png"
     ],
-    "abstract": "My rapture pants for your unsatisfied appetite. My seductive adoration attracts your winning infatuation. My affection passionately clings to your amorous fellow feeling. My longing fervently longs for your passion. You are my loving rapture.\nYours tenderly,\nM.U.C"
+    "abstract": "My idea was to find out, when you are heading north. After playing with the arduino and a compass module I discovered, that there is even more potential. With the help of a friend I was able to show exactly, where the north pole is."
   }
 }
