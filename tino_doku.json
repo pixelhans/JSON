@@ -13,10 +13,10 @@
     "title": "lines.. or circles?",
     "url": "https://github.com/pixelhans/algorithm",
     "images": [
-      "ldr-1.png"
+      "alg.png"
     ],
     "thumb": [
-      "ldr-1-thumb.png"
+      "alg-thumb.png"
     ],
     "abstract": "Translating a simple analog algorithm into code isn't easy at all. I had to make some sacrifice my initial idea and created an all new algortihm digitally."
   },
@@ -24,18 +24,18 @@
     "survey_url": "http://pixelhans.github.io",
     "result_url": "http://pixelhans.github.io/results.html",
     "title": "play a game.. make a game",
-    "image": "ldr.png",
-    "thumb": "ldr-thumb.png",
+    "image": "esc.png",
+    "thumb": "esc-thumb.png",
     "abstract": "People play a little flash game and fill in a form afterwards. With their data a growing dungeon is generated."
   },
   "bits": {
     "video_url": "http://vimeo.com/1234567",
     "title": "north",
     "images": [
-      "ldr-1.png"
+      "ard.png"
     ],
     "thumb": [
-      "ldr-1-thumb.png"
+      "ard-thumb.png"
     ],
     "abstract": "My idea was to find out, when you are heading north. After playing with the arduino and a compass module I discovered, that there is even more potential. With the help of a friend I was able to show exactly, where the north pole is."  }
 }
