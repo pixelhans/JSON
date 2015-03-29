@@ -30,13 +30,12 @@
   },
   "bits": {
     "video_url": "http://vimeo.com/1234567",
-    "title": ""north",
+    "title": "north",
     "images": [
       "ldr-1.png"
     ],
     "thumb": [
       "ldr-1-thumb.png"
     ],
-    "abstract": "My idea was to find out, when you are heading north. After playing with the arduino and a compass module I discovered, that there is even more potential. With the help of a friend I was able to show exactly, where the north pole is."
-  }
+    "abstract": "My idea was to find out, when you are heading north. After playing with the arduino and a compass module I discovered, that there is even more potential. With the help of a friend I was able to show exactly, where the north pole is."  }
 }
