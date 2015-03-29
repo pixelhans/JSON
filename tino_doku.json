@@ -22,7 +22,7 @@
   },
   "crowd": {
     "survey_url": "http://pixelhans.github.io",
-    "result_url": "http://pixelhans.github.io/results",
+    "result_url": "http://pixelhans.github.io/results.html",
     "title": "play a game.. make a game",
     "image": "ldr.png",
     "thumb": "ldr-thumb.png",
