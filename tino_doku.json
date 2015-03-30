@@ -23,7 +23,7 @@
   "crowd": {
     "survey_url": "http://pixelhans.github.io",
     "result_url": "http://pixelhans.github.io/results.html",
-    "title": "play a game.. make a game",
+    "title": "ESCAPE",
     "image": "esc.png",
     "thumb": "esc-thumb.png",
     "abstract": "People play a little flash game and fill in a form afterwards. With their data a growing dungeon is generated."
